@@ -55,6 +55,14 @@ body {
   padding: 10px;
 }
 
+@media (max-width: 400px) {
+  .modal {
+    max-width: 320px;
+    max-height: 500px;
+    overflow: scroll;
+  }
+}
+
 /* Datepicker */
 
 .react-datetime-picker input:focus {

@@ -1,7 +1,7 @@
 ## CALENDAR APP
 CRUD de eventos. Sistema de usuarios con autenticación por JSON Web Token
 
-## ---> [LIVE](https://calendar.francoder.me) <---
+## ---> [LIVE](https://devfs-calendar-app.netlify.app) <---
 ## Tecnologías utilizadas :computer: 
 
 * __React__
